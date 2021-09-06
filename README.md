@@ -1,5 +1,7 @@
-# Integer
-Integer is a personal project I'm working on. It started in Python and got moved to C# on September 06, 2021.
+# Integer?
+Integer is a personal project I'm working on. It started with Python and got moved to C# on September 06, 2021.
+<br>
+The name ```Ineger``` comes from the fact that you are mostly using ```numbers``` to build your program. 
 <br><br>
 
 ## Why?
